@@ -1,2 +1,2 @@
-# Projeto Banco de Dados GRAN UNIVERSIDADE
-Aplicação teórica e pratica disciplinar
+# **GRAN UNIVERSIDADE**
+## 1. Desenvolvimento de Atividades
