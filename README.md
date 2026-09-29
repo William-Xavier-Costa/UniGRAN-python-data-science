@@ -2,9 +2,9 @@
 
 ## **python-data-science-roadmap**
 
-Este repositório foi criado para apoiar estudantes formandos de Ciência de Dados e Redes de Computadores na evolução da linguagem Python do nível básico ao intermediário, com foco em aplicações práticas em ciência de dados.
+Este repositório foi criado para apoiar formandos de Ciência de Dados e Redes de Computadores na evolução da linguagem Python do nível básico ao intermediário, com foco em aplicações práticas em ciência de dados.
 
-### Objetivo
+### 1.Objetivo
 
 O projeto tem como objetivo fornecer uma trilha de aprendizado progressiva:  
 
@@ -12,7 +12,7 @@ O projeto tem como objetivo fornecer uma trilha de aprendizado progressiva:
 
 * Projetos práticos aplicados à ciência de dados, divididos em nível básico, intermediário, avançado.
 
-### Estrutura do Repositório
+### 2.Estrutura do Repositório
 
 * python-data-science-roadmap
 
@@ -21,7 +21,7 @@ O projeto tem como objetivo fornecer uma trilha de aprendizado progressiva:
 > **Projetos intermediários**  
 > **Projetos avançados**  
 
-### Conceitos da Linguagem
+### 3.Conceitos da Linguagem
 
 O formando aprenderá:
 
@@ -33,13 +33,13 @@ O formando aprenderá:
 * Manipulação de arquivos e tratamento de exceções;
 * Programação orientada a objetos  
 
-### Projetos em Ciência de Dados
+### 4.Projetos em Ciência de Dados
 
 * Projetos Básicos  
 * Projetos Intermediários
 * Projetos Avançados
 
-### Referências
+### 5.Referências
 
 Curso Intensivo de Python – Eric Matthes Automatize tarefas maçantes com Python – Al Sweigart
 
@@ -49,16 +49,16 @@ Python para Análise de Dados – Wes McKinney
 
 Python Fluente – Luciano Ramalho
 
-### Tutoriais
+### 6.Tutoriais
 
 Tutorial oficial Python
 
 Referência da linguagem Python
 
-### Contribuições
+### 7.Contribuições
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request para sugerir melhorias.
 
-### Licença
+### 8.Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
